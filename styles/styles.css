@@ -66,6 +66,16 @@ button{
     min-width: 70%;
     min-height: 2.5em;
     margin: 15px auto;
+    transition: 500ms;
+    box-shadow: 0px 9px 10px 6px  black;
+}
+button:hover{
+    background-color: #6868a8;
+    color:aliceblue;
+    box-shadow: 0 5px  2px black;
+}
+button:active{
+    box-shadow: none;
 }
 label{
     color:whitesmoke;
