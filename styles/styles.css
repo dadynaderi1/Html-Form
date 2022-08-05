@@ -30,6 +30,7 @@ body::before {
 h1{
     text-align: center;
     margin: 25px 0 0 0;
+    color:beige;
 }
 .bold{
     font-weight: 800;
