@@ -73,11 +73,15 @@ button:hover{
     background-color: #6868a8;
     color:aliceblue;
     box-shadow: 0 5px  2px black;
+    transition: 0.1s;
 }
 button:active{
     box-shadow: none;
+    background-color: #000000;
+    
 }
 label{
     color:whitesmoke;
     font-size : 18px;
+    
 }
