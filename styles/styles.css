@@ -85,5 +85,9 @@ button:active{
 label{
     color:whitesmoke;
     font-size : 18px;
-    
+}
+input{
+    border-radius: 10px;
+    padding-left: 15px;
+
 }
